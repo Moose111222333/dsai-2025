@@ -49,6 +49,8 @@
 ```plaintext
 lab4_contextual_decision_agent.ino
 ```
+![image](https://github.com/user-attachments/assets/1f4e2225-619c-4531-b5b8-a0a7780f690a)
+
 
 
 
